@@ -9,6 +9,8 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
+        
+        // This is the change I am making in the branch
         NavigationView{
             SidebarView()
             //PrimaryView()
